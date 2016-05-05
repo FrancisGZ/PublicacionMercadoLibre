@@ -1,0 +1,39 @@
+
+
+.header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+
+.imagenes {
+	
+
+    background-color:#eeeeee;
+   	height: 100%;
+    width:500px;
+    float:left;
+    padding:5px;	
+}
+
+
+.descripcion {
+
+	background-color: red;
+	height: 100%;
+	 width:400px;
+    float:left;
+    
+}
+
+
+
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}

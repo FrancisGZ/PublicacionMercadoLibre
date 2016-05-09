@@ -5,35 +5,59 @@
     color:white;
     text-align:center;
     padding:5px;
+    width: 855px;
 }
+
 
 
 .imagenes {
 	
-
     background-color:#eeeeee;
-   	height: 100%;
-    width:500px;
+    width:400px;
     float:left;
     padding:5px;	
+    text-align: center;
+
+
 }
 
 
 .descripcion {
 
-	background-color: red;
-	height: 100%;
-	 width:400px;
+	background-color: #eeeeee;
+    height: 1585px;
+	 width:450px;
     float:left;
+    text-align: center;
+    font-size: 1.5em;
+   padding-right: 5px;
+   padding-top: 20px;
     
 }
 
 
+.aclaracion{
 
-#footer {
+    padding-top: 100px;
+    color: red;
+   font-weight: bold;;
+}
+
+  li{
+    list-style: none;
+}
+
+
+img {
+     width: 25em;
+     border-radius: 30%;
+}
+
+.footer {
     background-color:black;
     color:white;
     clear:both;
     text-align:center;
-   padding:5px;	 	 
+   padding:5px;	 
+   width: 855px; 
 }
